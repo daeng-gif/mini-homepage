@@ -1,0 +1,20 @@
+/* photo.html의 css */
+.workspace__box-title{
+    background-color: lightgrey;
+    font-size: 1.5rem;
+  
+    padding: 10px;
+  
+  }
+  .workspace__box-img{
+    margin-top: 10px;
+  }
+  .workspace__box-text{
+    font-size: 1.5rem;
+    line-height: 2.1rem;
+    margin-top: 10px;
+    margin-bottom: 50px;
+  }
+.workspace__box{
+    overflow: auto;
+}
